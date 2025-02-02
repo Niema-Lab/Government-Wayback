@@ -3627,7 +3627,6 @@
 * [https://web.archive.org/web/www.cdc.gov/mmwr/preview/index96.html](https://web.archive.org/web/www.cdc.gov/mmwr/preview/index96.html)
 * [https://web.archive.org/web/www.cdc.gov/mmwr/preview/index97.html](https://web.archive.org/web/www.cdc.gov/mmwr/preview/index97.html)
 * [https://web.archive.org/web/www.cdc.gov/mmwr/preview/index98.html](https://web.archive.org/web/www.cdc.gov/mmwr/preview/index98.html)
-* [https://web.archive.org/web/www.cdc.gov/mmwr/preview/mmwrhtml](https://web.archive.org/web/www.cdc.gov/mmwr/preview/mmwrhtml)
 * [https://web.archive.org/web/www.cdc.gov/mmwr/publications/index.html](https://web.archive.org/web/www.cdc.gov/mmwr/publications/index.html)
 * [https://web.archive.org/web/www.cdc.gov/mmwr/staff/staff.html](https://web.archive.org/web/www.cdc.gov/mmwr/staff/staff.html)
 * [https://web.archive.org/web/www.cdc.gov/mobile/applications/sto/web-app.html](https://web.archive.org/web/www.cdc.gov/mobile/applications/sto/web-app.html)
