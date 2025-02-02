@@ -11,7 +11,7 @@ REPLACE = [
 ]
 
 # characters to skip URLs
-SKIP = ['?']
+SKIP = []
 
 # clean a string
 def clean(s):
@@ -36,18 +36,21 @@ def open_file(fn, mode='rt'):
 
 # main program
 if __name__ == "__main__":
-    assert len(argv) == 3, "USAGE: %s <input_url_txt> <output_url_md>"
+    assert len(argv) == 3, "USAGE: %s <input_url_txt> <output_url_md/txt>"
     assert isfile(argv[1]), "Input file not found: %s" % argv[1]
     assert not (isfile(argv[2]) or isdir(argv[2])), "Output exists: %s" % argv[2]
     f_in = open_file(argv[1], 'rt'); f_out = open_file(argv[2], 'wt')
+    md_out = argv[2].strip().lower().replace('.gz','').endswith('.md')
     for l in f_in:
         url = clean(l)
-        if url.endswith('.html'):
-            skip = False
-            for c in SKIP:
-                if c in url:
-                    skip = True
-            if skip:
-                continue
+        skip = False
+        for c in SKIP:
+            if c in url:
+                skip = True
+        if skip:
+            continue
+        elif md_out:
             f_out.write('* [%s](%s)\n' % (url, url))
+        else:
+            f_out.write('%s\n' % url)
     f_in.close(); f_out.close()
