@@ -1,9 +1,14 @@
 #! /usr/bin/env python3
 from os.path import isdir, isfile
 from sys import argv
+REPLACE = [
+    ('﹖', '?'),
+    ('﹕', ':'),
+    ('ꤷ', '/'),
+]
 def clean(s):
     s = s.strip()
-    for k, v in [('﹖','?')]:
+    for k, v in REPLACE:
         s = s.replace(k,v)
     return s
 assert len(argv) == 3, "USAGE: %s <input_url_txt> <output_url_md>"
