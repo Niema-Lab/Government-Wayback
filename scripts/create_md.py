@@ -7,5 +7,5 @@ assert not (isfile(argv[2]) or isdir(argv[2])), "Output exists: %s" % argv[2]
 f_in = open(argv[1], 'rt'); f_out = open(argv[2], 'wt')
 for l in f_in:
     url = l.strip()
-    f_out.write('[%s](%s)\n' % (url, url))
+    f_out.write('* [%s](%s)\n' % (url, url))
 f_in.close(); f_out.close()
