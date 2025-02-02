@@ -43,6 +43,8 @@ if __name__ == "__main__":
     md_out = argv[2].strip().lower().replace('.gz','').endswith('.md')
     for l in f_in:
         url = clean(l)
+        if not url.endswith('.html'):
+            continue
         skip = False
         for c in SKIP:
             if c in url:
@@ -50,7 +52,7 @@ if __name__ == "__main__":
         if skip:
             continue
         elif md_out:
-            f_out.write('* [%s](%s)\n' % (url, url))
+            f_out.write('* `%s` - [Before 2025-01-27](https://web.archive.org/web/20250127000000/%s) - [Latest](https://web.archive.org/web/%s)\n' % (url, url, url))
         else:
             f_out.write('%s\n' % url)
     f_in.close(); f_out.close()
