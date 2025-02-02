@@ -11,7 +11,7 @@ REPLACE = [
 ]
 
 # characters to skip URLs
-SKIP = []
+SKIP = ['?']
 
 # clean a string
 def clean(s):

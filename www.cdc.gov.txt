@@ -27,7 +27,6 @@ www.cdc.gov/about/cdc-moving-forward.html
 www.cdc.gov/about/cdc-moving-forward/feedback.html
 www.cdc.gov/about/cdc-moving-forward/index.html
 www.cdc.gov/about/cdc-moving-forward/newcdc-info.html
-www.cdc.gov/about/cdc-moving-forward?CDC_AAref_Val=https://www.cdc.gov/about/organization/cdc-moving-forward.html
 www.cdc.gov/about/cdc/index.html
 www.cdc.gov/about/divisions-offices/atsdr.html
 www.cdc.gov/about/divisions-offices/cdcw.html
@@ -112,13 +111,10 @@ www.cdc.gov/aces/programs/index.html
 www.cdc.gov/aces/risk-factors/index.html
 www.cdc.gov/aces/site.html
 www.cdc.gov/acip-recs/hcp/vaccine-specific/covid-19.html
-www.cdc.gov/acip-recs/hcp/vaccine-specific/covid-19?CDC_AAref_Val=https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/covid-19.html
-www.cdc.gov/acip-recs/hcp/vaccine-specific/flu?CDC_AAref_Val=https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/flu.html
 www.cdc.gov/acip-recs/hcp/vaccine-specific/index.html
 www.cdc.gov/acip-recs/hcp/vaccine-specific/mmr.html
 www.cdc.gov/acip-recs/hcp/vaccine-specific/mmrv.html
 www.cdc.gov/acip-recs/hcp/vaccine-specific/smallpox-mpox.html
-www.cdc.gov/acip-recs/hcp/vaccine-specific/smallpox-mpox?CDC_AAref_Val=https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/smallpox.html
 www.cdc.gov/acip/about/acip-charter.html
 www.cdc.gov/acip/evidence-to-recommendations/adults-50-64-without-pneumococcal-vaccine-etr.html
 www.cdc.gov/acip/grade/PCV20-prev-vax-adults-19-64-risk-based.html
@@ -296,7 +292,6 @@ www.cdc.gov/asthma/hcp/clinical-guidance/index.html
 www.cdc.gov/asthma/index.html
 www.cdc.gov/asthma/living-with/index.html
 www.cdc.gov/asthma/respiratory-infections/index.html
-www.cdc.gov/asthma/respiratory-infections/index?CDC_AAref_Val=https://www.cdc.gov/asthma/respinf.html
 www.cdc.gov/asthma/site.html
 www.cdc.gov/autism/index.html
 www.cdc.gov/b-cepacia/about/index.html
@@ -323,11 +318,9 @@ www.cdc.gov/bird-flu/communication-resources/index.html
 www.cdc.gov/bird-flu/es/video-series/h5n1-aprenda-medidas-preventivas.html
 www.cdc.gov/bird-flu/groups/index.html
 www.cdc.gov/bird-flu/h5-monitoring/index.html
-www.cdc.gov/bird-flu/h5-monitoring/index?CDC_AA_refVal=https://www.cdc.gov/flu/avianflu/h5-monitoring.html
 www.cdc.gov/bird-flu/hcp/animals/index.html
 www.cdc.gov/bird-flu/hcp/animals/resources-veterinarians-dairy.html
 www.cdc.gov/bird-flu/hcp/case-definition/index.html
-www.cdc.gov/bird-flu/hcp/case-definition/index?CDC_AAref_Val=https://www.cdc.gov/flu/avianflu/case-definitions.html
 www.cdc.gov/bird-flu/hcp/clinicians-evaluating-patients/index.html
 www.cdc.gov/bird-flu/hcp/emergency-use-oseltamivir/index.html
 www.cdc.gov/bird-flu/hcp/guidance-exposed-persons/index.html
@@ -360,7 +353,6 @@ www.cdc.gov/bird-flu/prevention/employer-provided-ppe.html
 www.cdc.gov/bird-flu/prevention/farm-workers.html
 www.cdc.gov/bird-flu/prevention/food-safety.html
 www.cdc.gov/bird-flu/prevention/hpai-interim-recommendations.html
-www.cdc.gov/bird-flu/prevention/hpai-interim-recommendations?CDC_AAref_Val=https://www.cdc.gov/flu/avianflu/hpai/hpai-interim-recommendations.html
 www.cdc.gov/bird-flu/prevention/index.html
 www.cdc.gov/bird-flu/prevention/worker-protection-ppe.html
 www.cdc.gov/bird-flu/print-materials/h5n1-learn-preventative-actions.html
@@ -504,7 +496,6 @@ www.cdc.gov/bring-your-brave/resources/index.html
 www.cdc.gov/bring-your-brave/stories/emily-caroline.html
 www.cdc.gov/bring-your-brave/stories/index.html
 www.cdc.gov/brucellosis/about/index.html
-www.cdc.gov/bscid/php/fsma/index?CDC_AAref_Val=https://www.cdc.gov/ddid/bsc/fsma/index.html
 www.cdc.gov/budget/congressional-justification/index.html
 www.cdc.gov/budget/covid-19-funding/index.html
 www.cdc.gov/budget/covid-19/index.html
@@ -637,7 +628,6 @@ www.cdc.gov/carbon-monoxide/site.html
 www.cdc.gov/cardiovascular-resources/php/medication-adherence/index.html
 www.cdc.gov/caregiving/about/index.html
 www.cdc.gov/caregiving/caring-for-yourself/index.html
-www.cdc.gov/caregiving/caring-for-yourself/index?CDC_AAref_Val=https://www.cdc.gov/aging/publications/features/caring-for-yourself.html
 www.cdc.gov/caregiving/data-research/memory-loss/index.html
 www.cdc.gov/caregiving/guidelines/index.html
 www.cdc.gov/caregiving/index.html
@@ -648,33 +638,6 @@ www.cdc.gov/casper/php/overview/index.html
 www.cdc.gov/ccindex/ccindex.html
 www.cdc.gov/ccindex/everydaywords/about.html
 www.cdc.gov/ccindex/everydaywords/index.html
-www.cdc.gov/ccindex/everydaywords/index?term=0&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=a&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=b&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=c&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=d&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=e&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=f&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=g&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=h&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=i&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=j&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=k&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=l&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=m&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=n&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=o&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=p&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=q&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=r&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=s&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=t&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=u&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=v&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=w&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=x&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=y&startonly=true.html
-www.cdc.gov/ccindex/everydaywords/index?term=z&startonly=true.html
 www.cdc.gov/ccindex/examplematerial/hai.html
 www.cdc.gov/ccindex/examplematerial/index.html
 www.cdc.gov/ccindex/examplematerial/nvdrs.html
@@ -748,7 +711,6 @@ www.cdc.gov/cfa-modeling-and-forecasting/about/index.html
 www.cdc.gov/cfa-modeling-and-forecasting/mpox-gbmsm-technical-brief/index.html
 www.cdc.gov/cfa-modeling-and-forecasting/mpox-transmission-technical-brief/index.html
 www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index.html
-www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/index?CDC_AA_refVal=https://www.cdc.gov/forecast-outbreak-analytics/about/rt-estimates.html
 www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/state-rt-timeseries/chart-covid.html
 www.cdc.gov/cfa-modeling-and-forecasting/rt-estimates/state-rt-timeseries/chart-flu.html
 www.cdc.gov/cfa-modeling-and-forecasting/rt-mmwr-new-mexico/index.html
@@ -837,7 +799,6 @@ www.cdc.gov/clabsi/about/index.html
 www.cdc.gov/clean-hands/about/Hand-Hygiene-for-Healthcare.html
 www.cdc.gov/clean-hands/about/hand-sanitizer.html
 www.cdc.gov/clean-hands/about/index.html
-www.cdc.gov/clean-hands/about/index?CDC_AAref_Val=https://www.cdc.gov/handwashing/when-how-handwashing.html
 www.cdc.gov/clean-hands/clean-hands-and-spaces/index.html
 www.cdc.gov/clean-hands/clean-hands-and-spaces/training.html
 www.cdc.gov/clean-hands/communication-resources/index.html
@@ -929,7 +890,6 @@ www.cdc.gov/conjunctivitis/es/site.html
 www.cdc.gov/conjunctivitis/hcp/clinical-overview/bacterial-types.html
 www.cdc.gov/conjunctivitis/hcp/clinical-overview/index.html
 www.cdc.gov/conjunctivitis/hcp/infection-control-ekc/index.html
-www.cdc.gov/conjunctivitis/hcp/infection-control-ekc/index?CDC_AAref_Val=https://www.cdc.gov/conjunctivitis/clinical/prevent-ekc.html
 www.cdc.gov/conjunctivitis/index.html
 www.cdc.gov/conjunctivitis/newborns/index.html
 www.cdc.gov/conjunctivitis/prevention-infographic/index.html
@@ -938,7 +898,6 @@ www.cdc.gov/conjunctivitis/signs-symptoms/index.html
 www.cdc.gov/conjunctivitis/site.html
 www.cdc.gov/conjunctivitis/treatment/index.html
 www.cdc.gov/contact/accessibility.html
-www.cdc.gov/continuing-education/php/about/index?CDC_AAref_Val=https://www.cdc.gov/training/cecredit/index.html
 www.cdc.gov/contraception/hcp/contraceptive-guidance/index.html
 www.cdc.gov/contracts/about/index.html
 www.cdc.gov/contracts/about/types.html
@@ -987,23 +946,19 @@ www.cdc.gov/covid/communication/medicine.html
 www.cdc.gov/covid/communication/people-with-disabilities.html
 www.cdc.gov/covid/communication/vaccines-children-teens.html
 www.cdc.gov/covid/hcp/clinical-care/clinical-specimen-guidelines.html
-www.cdc.gov/covid/hcp/clinical-care/clinical-specimen-guidelines?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html
 www.cdc.gov/covid/hcp/clinical-care/considerations-special-groups.html
 www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html
 www.cdc.gov/covid/hcp/clinical-care/for-pediatric-hcp.html
 www.cdc.gov/covid/hcp/clinical-care/index.html
 www.cdc.gov/covid/hcp/clinical-care/management-and-treatment.html
 www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment.html
-www.cdc.gov/covid/hcp/clinical-care/outpatient-treatment?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/outpatient-treatment-overview.html
 www.cdc.gov/covid/hcp/clinical-care/overview-testing-sars-cov-2.html
 www.cdc.gov/covid/hcp/clinical-care/systematic-review-process.html
 www.cdc.gov/covid/hcp/clinical-care/underlying-conditions.html
-www.cdc.gov/covid/hcp/clinical-care/underlying-conditions?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/underlyingconditions.html
 www.cdc.gov/covid/hcp/clinical-overview/index.html
 www.cdc.gov/covid/hcp/index.html
 www.cdc.gov/covid/hcp/infection-control/guidance-risk-assesment-hcp.html
 www.cdc.gov/covid/hcp/infection-control/index.html
-www.cdc.gov/covid/hcp/infection-control/index?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-recommendations.html
 www.cdc.gov/covid/hcp/infection-control/mitigating-staff-shortages.html
 www.cdc.gov/covid/hcp/non-us-settings/index.html
 www.cdc.gov/covid/hcp/non-us-settings/outpatient.html
@@ -1030,12 +985,10 @@ www.cdc.gov/covid/php/surveillance/vaccine-effectiveness-studies.html
 www.cdc.gov/covid/php/variants/index.html
 www.cdc.gov/covid/prevention/index.html
 www.cdc.gov/covid/risk-factors/index.html
-www.cdc.gov/covid/risk-factors/index?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html
 www.cdc.gov/covid/signs-symptoms/index.html
 www.cdc.gov/covid/site.html
 www.cdc.gov/covid/testing/index.html
 www.cdc.gov/covid/treatment/index.html
-www.cdc.gov/covid/treatment/index?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/your-health/treatments-for-severe-illness.html
 www.cdc.gov/covid/vaccines/benefits.html
 www.cdc.gov/covid/vaccines/covid-19-vaccine-effectiveness.html
 www.cdc.gov/covid/vaccines/faq.html
@@ -1048,7 +1001,6 @@ www.cdc.gov/covid/vaccines/myths-facts.html
 www.cdc.gov/covid/vaccines/planning-for-pregnancy.html
 www.cdc.gov/covid/vaccines/pregnant-or-breastfeeding.html
 www.cdc.gov/covid/vaccines/stay-up-to-date.html
-www.cdc.gov/covid/vaccines/stay-up-to-date?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html
 www.cdc.gov/covidvaxview/index.html
 www.cdc.gov/covidvaxview/interactive/index.html
 www.cdc.gov/covidvaxview/weekly-dashboard/adult-vaccination-coverage.html
@@ -1349,7 +1301,6 @@ www.cdc.gov/diabetes/living-with/10-things-that-spike-blood-sugar.html
 www.cdc.gov/diabetes/living-with/healthy-weight.html
 www.cdc.gov/diabetes/living-with/index.html
 www.cdc.gov/diabetes/living-with/managing-sick-days.html
-www.cdc.gov/diabetes/living-with/managing-sick-days?CDC_AAref_Val=https://www.cdc.gov/diabetes/managing/flu-sick-days.html
 www.cdc.gov/diabetes/living-with/mental-health.html
 www.cdc.gov/diabetes/living-with/physical-activity.html
 www.cdc.gov/diabetes/php/cbo-guidance/faith-leaders-diabetes-prevention-management.html
@@ -1411,17 +1362,6 @@ www.cdc.gov/diabetes/treatment/your-diabetes-care-schedule.html
 www.cdc.gov/diabetes/widgets/risktest/index.html
 www.cdc.gov/digital-social-media-tools/Social-Media-Channels.html
 www.cdc.gov/digital-social-media-tools/cdctv/all-videos.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?language=spanish.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics= Surveillance+and+data+collection.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=Child+development.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=Disasters+and+emergencies.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=Diseases+and+conditions.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=Environmental+health.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=Health+behavior+and+risks.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=Sexual+and+reproductive+health.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=injuries.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=prevention+and+control.html
-www.cdc.gov/digital-social-media-tools/cdctv/all-videos?topics=violence+abuse+and+adverse+childhood+experiences.html
 www.cdc.gov/digital-social-media-tools/cdctv/index.html
 www.cdc.gov/digital-social-media-tools/index.html
 www.cdc.gov/digital-social-media-tools/mobile/applications/cdcgeneral/promos/cdcmobileapp.html
@@ -1589,7 +1529,6 @@ www.cdc.gov/fasd/index.html
 www.cdc.gov/fellowships/es/site.html
 www.cdc.gov/fellowships/php/about/index.html
 www.cdc.gov/fellowships/php/host-sites/index.html
-www.cdc.gov/fellowships/php/host-sites/index?CDC_AAref_Val=https://www.cdc.gov/fellowships/host-sites/index.html
 www.cdc.gov/fellowships/php/index.html
 www.cdc.gov/fellowships/php/opportunities/applying-for-bachelors-degree-opportunities.html
 www.cdc.gov/fellowships/php/opportunities/applying-for-clinical-degree-opportunities.html
@@ -1686,7 +1625,6 @@ www.cdc.gov/flu-burden/php/about-burden-prevented/index.html
 www.cdc.gov/flu-burden/php/about/faq.html
 www.cdc.gov/flu-burden/php/about/how-cdc-estimates.html
 www.cdc.gov/flu-burden/php/about/index.html
-www.cdc.gov/flu-burden/php/about/index?CDC_AAref_Val=https://www.cdc.gov/flu/about/burden/index.html
 www.cdc.gov/flu-burden/php/about/why-cdc-estimates.html
 www.cdc.gov/flu-burden/php/data-vis-vac/2021-2022-prevented.html
 www.cdc.gov/flu-burden/php/data-vis-vac/2022-2023-prevented.html
@@ -1765,7 +1703,6 @@ www.cdc.gov/flu-in-animals/about/bat-flu.html
 www.cdc.gov/flu-in-animals/about/canine-flu.html
 www.cdc.gov/flu-in-animals/about/cat-flu.html
 www.cdc.gov/flu-in-animals/about/fair-exhibitors-information.html
-www.cdc.gov/flu-in-animals/about/fair-exhibitors-information?CDC_AAref_Val=https://www.cdc.gov/flu/other/fair-exhibitors-information.html
 www.cdc.gov/flu-in-animals/about/fair-organizers-information.html
 www.cdc.gov/flu-in-animals/about/horse-flu.html
 www.cdc.gov/flu-in-animals/about/index.html
@@ -1889,7 +1826,6 @@ www.cdc.gov/flu/php/laboratories/rtpcr-test-kits.html
 www.cdc.gov/flu/php/laboratories/table-testing-methods.html
 www.cdc.gov/flu/php/surveillance/in-season-severity.html
 www.cdc.gov/flu/php/surveillance/index.html
-www.cdc.gov/flu/php/surveillance/index?CDC_AAref_Val=https://www.cdc.gov/flu/about/cdc-classifies-flu-severity-in-us.html
 www.cdc.gov/flu/php/surveillance/past-seasons.html
 www.cdc.gov/flu/php/viruses/antigenic.html
 www.cdc.gov/flu/php/viruses/change.html
@@ -1977,7 +1913,6 @@ www.cdc.gov/flu/whats-new/2024-2025-flu-activity-vaccine.html
 www.cdc.gov/flu/whats-new/2024-2025-southern-hemisphere.html
 www.cdc.gov/flu/whats-new/22-23-summary-technical-report.html
 www.cdc.gov/flu/whats-new/flu-summary-2023-2024.html
-www.cdc.gov/flu/whats-new/flu-summary-2023-2024?CDC_AAref_Val=https://www.cdc.gov/flu/spotlights/2023-2024/flu-summary-2023-2024.html
 www.cdc.gov/flu/whats-new/flu-summary-addendum-2023-2024.html
 www.cdc.gov/flu/whats-new/flusurv-20th-anniversary.html
 www.cdc.gov/flu/whats-new/index.html
@@ -2370,21 +2305,15 @@ www.cdc.gov/health-equity-chronic-disease/about/index.html
 www.cdc.gov/health-equity-chronic-disease/social-determinants-of-health-and-chronic-disease/index.html
 www.cdc.gov/health-equity/in-action/vaccine-trust.html
 www.cdc.gov/health-equity/index.html
-www.cdc.gov/health-equity/index?CDC_AAref_Val=https://www.cdc.gov/healthequity/whatis/healthequityinaction/.html
 www.cdc.gov/health-equity/what-is/index.html
-www.cdc.gov/health-equity/what-is/index?CDC_AAref_Val=https://www.cdc.gov/healthequity/whatis/.html
 www.cdc.gov/health-literacy/php/about/understanding.html
 www.cdc.gov/health-topics.html
 www.cdc.gov/healthcare-associated-infections/hcp/patient-notification-toolkit/index.html
 www.cdc.gov/healthcare-associated-infections/hcp/prevention-healthcare/infection-control-outpatient-oncology.html
-www.cdc.gov/healthcare-associated-infections/hcp/prevention-healthcare/outpatient-expectations?CDC_AAref_Val=https://www.cdc.gov/hai/settings/outpatient/outpatient-care-guidelines.html
-www.cdc.gov/healthcare-associated-infections/index?CDC_AAref_Val=https://www.cdc.gov/HAI/prevent/ppe.html
 www.cdc.gov/healthcare-associated-infections/php/data/index.html
 www.cdc.gov/healthcare-associated-infections/php/data/research-gaps-patient-safety.html
 www.cdc.gov/healthcare-associated-infections/php/haic-eip/candida.html
-www.cdc.gov/healthcare-associated-infections/php/haic-eip/haicviz?CDC_AAref_Val=https://www.cdc.gov/hai/eip/haicviz.html
 www.cdc.gov/healthcare-associated-infections/programs/index.html
-www.cdc.gov/healthcare-associated-infections/programs/index?CDC_AAref_Val=https://www.cdc.gov/hai/state-based/index.html
 www.cdc.gov/healthy-aging-data/brfss/index.html
 www.cdc.gov/healthy-aging-data/data-portal/index.html
 www.cdc.gov/healthy-aging-data/index.html
@@ -2408,7 +2337,6 @@ www.cdc.gov/healthy-pets/outbreaks/index.html
 www.cdc.gov/healthy-pets/pets-animals/index.html
 www.cdc.gov/healthy-pets/risk-factors/index.html
 www.cdc.gov/healthy-pets/rodent-control/index.html
-www.cdc.gov/healthy-pets/rodent-control/seal-up?CDC_AAref_Val=https://www.cdc.gov/healthypets/pets/wildlife/seal-up.html
 www.cdc.gov/healthy-pets/schools-daycares/index.html
 www.cdc.gov/healthy-pets/site.html
 www.cdc.gov/healthy-pets/travel/index.html
@@ -2465,7 +2393,6 @@ www.cdc.gov/healthywater/surveillance/index.html
 www.cdc.gov/healthyyouth/hecat/index.html
 www.cdc.gov/healthyyouth/index.html
 www.cdc.gov/healthyyouth/mental-health-action-guide/index.html
-www.cdc.gov/healthyyouth/mental-health-action-guide/index?s_cid=hy-2023.html
 www.cdc.gov/hearher/index.html
 www.cdc.gov/hearing-loss-children-guide/parents-guide/index.html
 www.cdc.gov/hearing-loss/about/index.html
@@ -2688,7 +2615,6 @@ www.cdc.gov/hurricanes/safety/index.html
 www.cdc.gov/hurricanes/site.html
 www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html
 www.cdc.gov/hygiene/about/coughing-and-sneezing.html
-www.cdc.gov/hygiene/about/coughing-and-sneezing?CDC_AAref_Val=https://www.cdc.gov/hygiene/personal-hygiene/coughing-sneezing.html
 www.cdc.gov/hygiene/about/healthy-habits-diaper-changing-steps-at-home.html
 www.cdc.gov/hygiene/about/index.html
 www.cdc.gov/hygiene/communication-resources/index.html
@@ -2753,9 +2679,6 @@ www.cdc.gov/infection-control/hcp/basics/standard-precautions.html
 www.cdc.gov/infection-control/hcp/basics/transmission-based-precautions.html
 www.cdc.gov/infection-control/hcp/cauti/index.html
 www.cdc.gov/infection-control/hcp/core-practices/index.html
-www.cdc.gov/infection-control/hcp/disinfection-sterilization/healthcare-equipment?CDC_AAref_Val=https://www.cdc.gov/infectioncontrol/guidelines/disinfection/healthcare-equipment.html
-www.cdc.gov/infection-control/hcp/disinfection-sterilization/summary-recommendations?CDC_AAref_Val=https://www.cdc.gov/infectioncontrol/guidelines/disinfection/recommendations.html
-www.cdc.gov/infection-control/hcp/environmental-control/air?CDC_AAref_Val=https://www.cdc.gov/infectioncontrol/guidelines/environmental/background/air.html
 www.cdc.gov/infection-control/hcp/environmental-control/appendix-b-air.html
 www.cdc.gov/infection-control/hcp/guidance/index.html
 www.cdc.gov/infection-control/hcp/hand-hygiene/index.html
@@ -2767,7 +2690,6 @@ www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-2.html
 www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-4.html
 www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-table-5.html
 www.cdc.gov/infection-control/hcp/isolation-precautions/index.html
-www.cdc.gov/infection-control/hcp/isolation-precautions/index?CDC_AAref_Val=https://www.cdc.gov/infectioncontrol/guidelines/isolation/index.html
 www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html
 www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html
 www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html
@@ -2977,7 +2899,6 @@ www.cdc.gov/lab-quality/php/get-rm/index.html
 www.cdc.gov/lab-quality/php/ngs-quality-initiative/additional-materials.html
 www.cdc.gov/lab-quality/php/ngs-quality-initiative/index.html
 www.cdc.gov/lab-quality/php/ngs-quality-initiative/qms-tools-resources.html
-www.cdc.gov/lab-quality/php/ngs-quality-initiative/qms-tools-resources?filter={ QSE :{ Information Management :false, Assessments :true}}.html
 www.cdc.gov/lab-quality/php/pathway/pathway-to-testing.html
 www.cdc.gov/lab-quality/php/waived-tests/index.html
 www.cdc.gov/lab-training/php/courses/basic-microscopy.html
@@ -3041,16 +2962,6 @@ www.cdc.gov/laboratory-systems/site.html
 www.cdc.gov/laboratory/drugservice/index.html
 www.cdc.gov/laboratory/sada/index.html
 www.cdc.gov/laboratory/specimen-submission/detail.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10244.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10248.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10280.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10282.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10283.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10307.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10365.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10516.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10528.html
-www.cdc.gov/laboratory/specimen-submission/detail?CDCTestCode=CDC-10543.html
 www.cdc.gov/laboratory/specimen-submission/infectious-disease-laboratories.html
 www.cdc.gov/laboratory/specimen-submission/list.html
 www.cdc.gov/labs/about/index.html
@@ -3277,7 +3188,6 @@ www.cdc.gov/listeria/php/surveillance/listeria-initiative.html
 www.cdc.gov/listeria/prevention/index.html
 www.cdc.gov/listeria/risk-factors/index.html
 www.cdc.gov/listeria/signs-symptoms/index.html
-www.cdc.gov/listeria/signs-symptoms/index?CDC_AAref_Val=https://www.cdc.gov/listeria/symptoms.html
 www.cdc.gov/listeria/site.html
 www.cdc.gov/liver-cancer/about/index.html
 www.cdc.gov/liver-cancer/prevention/index.html
@@ -3386,7 +3296,6 @@ www.cdc.gov/maternal-infant-health/pregnancy-weight/index.html
 www.cdc.gov/maternal-infant-health/preterm-birth/index.html
 www.cdc.gov/maternal-infant-health/site.html
 www.cdc.gov/maternal-mortality/index.html
-www.cdc.gov/maternal-mortality/php/erase-mm/index?CDC_AA_refVal=https://www.cdc.gov/erasemm/index.html
 www.cdc.gov/maternal-mortality/php/pregnancy-mortality-surveillance/index.html
 www.cdc.gov/mayaro-virus/about/index.html
 www.cdc.gov/me-cfs/about/index.html
@@ -3553,12 +3462,10 @@ www.cdc.gov/meningococcal/vaccines/babies-children.html
 www.cdc.gov/meningococcal/vaccines/index.html
 www.cdc.gov/meningococcal/vaccines/preteens-teens.html
 www.cdc.gov/meningococcal/vaccines/types.html
-www.cdc.gov/meningococcal/vaccines/types?revision_id=5107.html
 www.cdc.gov/mental-health/living-with/index.html
 www.cdc.gov/mers/hcp/infection-control/index.html
 www.cdc.gov/minority-health/features/minority-mental-health.html
 www.cdc.gov/minority-health/index.html
-www.cdc.gov/minority-health/racism-health/index?CDC_AAref_Val=https://www.cdc.gov/minorityhealth/racism-disparities/index.html
 www.cdc.gov/mis/hcp/case-definition-reporting/index.html
 www.cdc.gov/mis/hcp/clinical-care-treatment/index.html
 www.cdc.gov/mis/hcp/clinical-overview/index.html
@@ -3572,7 +3479,6 @@ www.cdc.gov/mmwr/cme/conted.html
 www.cdc.gov/mmwr/cme/conted_info.html
 www.cdc.gov/mmwr/cme/medscape_cme.html
 www.cdc.gov/mmwr/cme/serial_conted.html
-www.cdc.gov/mmwr/cme/serial_conted?s_cid=_CME_e.html
 www.cdc.gov/mmwr/cme/weekly_conted.html
 www.cdc.gov/mmwr/contributors/index.html
 www.cdc.gov/mmwr/editorial_board.html
@@ -3655,14 +3561,6 @@ www.cdc.gov/mmwr/indss_2022.html
 www.cdc.gov/mmwr/indss_2023.html
 www.cdc.gov/mmwr/indss_2024.html
 www.cdc.gov/mmwr/mmwr_additional_resources.html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics= Covid-19 &CDC_AA_refVal=https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics= Covid-19 .html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics= Health equity .html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics= Measles .html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics= flu .html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics=HIV.html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics=opioids.html
-www.cdc.gov/mmwr/mmwr_additional_resources?topics=violence.html
 www.cdc.gov/mmwr/mmwr_brief.html
 www.cdc.gov/mmwr/mmwr_mobileapps.html
 www.cdc.gov/mmwr/mmwr_nd/index.html
@@ -3790,24 +3688,20 @@ www.cdc.gov/mosquitoes/response/index.html
 www.cdc.gov/mosquitoes/site.html
 www.cdc.gov/moving-matters/about/index.html
 www.cdc.gov/mpox/about/index.html
-www.cdc.gov/mpox/about/index?CDC_AAref_Val=https://www.cdc.gov/poxvirus/mpox/about/index.html
 www.cdc.gov/mpox/about/mpox-and-hiv.html
 www.cdc.gov/mpox/about/mpox-in-animals-and-pets.html
 www.cdc.gov/mpox/caring/cleaning-and-disinfecting.html
 www.cdc.gov/mpox/caring/index.html
 www.cdc.gov/mpox/caring/patients-guide-to-mpox-treatment-with-tpoxx-tecovirimat.html
 www.cdc.gov/mpox/causes/index.html
-www.cdc.gov/mpox/causes/index?CDC_AAref_Val=https://www.cdc.gov/poxvirus/mpox/if-sick/transmission.html
 www.cdc.gov/mpox/data-research/cases/index.html
 www.cdc.gov/mpox/data-research/vaccines/index.html
 www.cdc.gov/mpox/hcp/case-definitions/index.html
-www.cdc.gov/mpox/hcp/case-definitions/index?CDC_AAref_Val=https://www.cdc.gov/poxvirus/mpox/clinicians/case-definition.html
 www.cdc.gov/mpox/hcp/clinical-care/death-certificate.html
 www.cdc.gov/mpox/hcp/clinical-care/immunocompromised-people.html
 www.cdc.gov/mpox/hcp/clinical-care/index.html
 www.cdc.gov/mpox/hcp/clinical-care/ocular-infection.html
 www.cdc.gov/mpox/hcp/clinical-care/pain-management.html
-www.cdc.gov/mpox/hcp/clinical-care/pain-management?CDC_AAref_Val=https://www.cdc.gov/poxvirus/mpox/clinicians/pain-management.html
 www.cdc.gov/mpox/hcp/clinical-care/pediatric.html
 www.cdc.gov/mpox/hcp/clinical-care/pregnancy.html
 www.cdc.gov/mpox/hcp/clinical-care/tecovirimat.html
@@ -4167,7 +4061,6 @@ www.cdc.gov/nceh/accomplishments/index.html
 www.cdc.gov/nceh/budget-funding/index.html
 www.cdc.gov/nceh/divisions-offices/about-division-environmental-health-science-practice.html
 www.cdc.gov/nceh/divisions-offices/about-division-laboratory-sciences.html
-www.cdc.gov/nceh/divisions-offices/about-division-laboratory-sciences?CDC_AAref_Val=https://www.cdc.gov/nceh/dls/index.html
 www.cdc.gov/nceh/divisions-offices/index.html
 www.cdc.gov/nceh/index.html
 www.cdc.gov/nceh/priorities/index.html
@@ -4751,7 +4644,6 @@ www.cdc.gov/niosh/peer-review/hazard-review-wildland-fire.html
 www.cdc.gov/niosh/peer-review/index.html
 www.cdc.gov/niosh/peer-review/peer-review-list-of-hazardous-drugs-in-healthcare-settings-2019.html
 www.cdc.gov/niosh/peer-review/peer-review-occupational-exposure-limits-or-bands-for-engineered-nanomaterials.html
-www.cdc.gov/niosh/peer-review/peer-review-occupational-exposure-limits-or-bands-for-engineered-nanomaterials?CDC_AAref_Val=https://www.cdc.gov/niosh/review/peer/isi/oelengineerednano.html
 www.cdc.gov/niosh/peer-review/peer-review-toluene-diisocyanate.html
 www.cdc.gov/niosh/ppe/default.html
 www.cdc.gov/niosh/ppe/index.html
@@ -4776,7 +4668,6 @@ www.cdc.gov/niosh/substance-use/tobacco/index.html
 www.cdc.gov/niosh/substance-use/workplace-supported-recovery/index.html
 www.cdc.gov/niosh/topics/protclothing/default.html
 www.cdc.gov/niosh/topics/publicppe/community-ppe.html
-www.cdc.gov/niosh/topics/publicppe/community-ppe?CDC_AA_refVal=https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html
 www.cdc.gov/niosh/topics/publicppe/use.html
 www.cdc.gov/niosh/topics/respirators/index.html
 www.cdc.gov/niosh/training-development/index.html
@@ -5140,7 +5031,6 @@ www.cdc.gov/outbreaks/index.html
 www.cdc.gov/ovarian-cancer/stories/index.html
 www.cdc.gov/ovarian-cancer/stories/janet.html
 www.cdc.gov/overdose-prevention/about/fentanyl.html
-www.cdc.gov/overdose-prevention/about/fentanyl?CDC_AAref_Val.html
 www.cdc.gov/overdose-prevention/about/heroin.html
 www.cdc.gov/overdose-prevention/about/index.html
 www.cdc.gov/overdose-prevention/about/polysubstance-overdose.html
@@ -5181,7 +5071,6 @@ www.cdc.gov/overdose-prevention/hcp/clinical-care/oud-pain-management.html
 www.cdc.gov/overdose-prevention/hcp/clinical-guidance/healthcare-admin-applying-guidelines.html
 www.cdc.gov/overdose-prevention/hcp/clinical-guidance/index.html
 www.cdc.gov/overdose-prevention/hcp/clinical-guidance/linkage-to-care.html
-www.cdc.gov/overdose-prevention/hcp/clinical-guidance/linkage-to-care?CDC_AAref_Val = https://www.cdc.gov/drugoverdose/featured-topics/linkage-to-care.html
 www.cdc.gov/overdose-prevention/hcp/clinical-guidance/prescription-drug-monitoring-programs.html
 www.cdc.gov/overdose-prevention/hcp/clinical-guidance/recommendations-and-principles.html
 www.cdc.gov/overdose-prevention/hcp/clinical-guidance/whats-different.html
@@ -5402,7 +5291,6 @@ www.cdc.gov/phifp/php/communications-resources/index.html
 www.cdc.gov/phifp/php/our-work/index.html
 www.cdc.gov/phifp/php/participants/index.html
 www.cdc.gov/phifp/php/request-services/index.html
-www.cdc.gov/phifp/php/request-services/index?CDC_AAref_Val=https://www.cdc.gov/phifp/info-aids.html
 www.cdc.gov/phifp/site.html
 www.cdc.gov/phin/php/index.html
 www.cdc.gov/phlp/hcp/counsel-partners/index.html
@@ -5546,10 +5434,8 @@ www.cdc.gov/prostate-cancer/treatment/index.html
 www.cdc.gov/prostate-cancer/what-cdc-is-doing/index.html
 www.cdc.gov/public-health-data-strategy/php/index.html
 www.cdc.gov/public-health-gateway/php/communications-resources/health-department-directories.html
-www.cdc.gov/public-health-gateway/php/communications-resources/health-department-directories?CDC_AAref_Val=https://www.cdc.gov/publichealthgateway/healthdirectories/index.html
 www.cdc.gov/public-health-gateway/php/communications-resources/performance-management-quality-improvement-resources.html
 www.cdc.gov/public-health-gateway/php/funding/covid-19-health-disparities-ot21-2103.html
-www.cdc.gov/public-health-gateway/php/funding/covid-19-health-disparities-ot21-2103?CDC_AAref_Val=https://www.cdc.gov/publichealthgateway/partnerships/COVID-19-Health-Disparities-OT21-2103.html
 www.cdc.gov/public-health-gateway/php/our-work/health-department-accreditation.html
 www.cdc.gov/pulsenet/hcp/about/index.html
 www.cdc.gov/pulsenet/php/wgs/index.html
@@ -5599,16 +5485,13 @@ www.cdc.gov/reproductive-health/site.html
 www.cdc.gov/reproductive-health/teen-pregnancy/index.html
 www.cdc.gov/reproductive-health/women-health/index.html
 www.cdc.gov/resp-net/dashboard/index.html
-www.cdc.gov/resp-net/dashboard/index?CDC_AAref_Val=https://www.cdc.gov/surveillance/resp-net/dashboard.html
 www.cdc.gov/respiratory-viruses/about/index.html
 www.cdc.gov/respiratory-viruses/data-research/dashboard/snapshot.html
 www.cdc.gov/respiratory-viruses/data/activity-levels.html
-www.cdc.gov/respiratory-viruses/data/activity-levels?CDC_AAref_Val=https://www.cdc.gov/respiratory-viruses/data-research/dashboard/activity-levels.html
 www.cdc.gov/respiratory-viruses/data/emergency-department-visits.html
 www.cdc.gov/respiratory-viruses/data/faqs.html
 www.cdc.gov/respiratory-viruses/data/illness-severity.html
 www.cdc.gov/respiratory-viruses/data/index.html
-www.cdc.gov/respiratory-viruses/data/index?CDC_AA_refVal=https://www.cdc.gov/respiratory-viruses/data-research/dashboard/snapshot.html
 www.cdc.gov/respiratory-viruses/data/most-impacted.html
 www.cdc.gov/respiratory-viruses/data/vaccination-trends.html
 www.cdc.gov/respiratory-viruses/guidance/background.html
@@ -5689,7 +5572,6 @@ www.cdc.gov/rsv/symptoms/index.html
 www.cdc.gov/rsv/vaccines/index.html
 www.cdc.gov/rsv/vaccines/older-adults.html
 www.cdc.gov/rsv/vaccines/protect-infants.html
-www.cdc.gov/rsv/vaccines/protect-infants?s_cid=SEM.MS:PAI:RG_AO_MS_TM_A18_RSV-Parents-Brd:rsv antibody shot:SEM00128&utm_id=SEM.MS:PAI:RG_AO_MS_TM_A18_RSV-Parents-Brd:rsv antibody shot:SEM00128.html
 www.cdc.gov/rsvvaxview/dashboard/adults-60-coverage-intent.html
 www.cdc.gov/rsvvaxview/data/index.html
 www.cdc.gov/rsvvaxview/index.html
@@ -5749,7 +5631,6 @@ www.cdc.gov/safe-labs/php/biological-risk-assessment/index.html
 www.cdc.gov/safe-labs/php/biorisk-management/index.html
 www.cdc.gov/safe-labs/php/biosafety-town-hall/index.html
 www.cdc.gov/safe-labs/php/biosafety-training/index.html
-www.cdc.gov/safe-labs/php/biosafety-training/index?CDC_AAref_Val=https://www.cdc.gov/safelabs/trainings.html
 www.cdc.gov/safe-labs/php/echo-biosafety-2023/biosafety-challenges-alaska.html
 www.cdc.gov/safe-labs/php/echo-biosafety-2023/decontamination-laboratory-equipment.html
 www.cdc.gov/safe-labs/php/echo-biosafety-2023/index.html
@@ -5803,7 +5684,6 @@ www.cdc.gov/salmonella/treatment/index.html
 www.cdc.gov/salt/about/index.html
 www.cdc.gov/salt/reduce-sodium-intake/index.html
 www.cdc.gov/schoolvaxview/about/index.html
-www.cdc.gov/schoolvaxview/data/index?CDC_AAref_Val=https://www.cdc.gov/vaccines/imz-managers/coverage/schoolvaxview/data-reports/index.html
 www.cdc.gov/schoolvaxview/index.html
 www.cdc.gov/schoolvaxview/pubs-resources/parental-attitudes-toward-vaccination-requirements.html
 www.cdc.gov/science-quality/php/information-quality-support/cdc-atsdr-peer-review-agenda.html
@@ -5986,7 +5866,6 @@ www.cdc.gov/stophivtogether/hiv-prevention/pep.html
 www.cdc.gov/stophivtogether/hiv-prevention/prep.html
 www.cdc.gov/stophivtogether/hiv-stigma/educate-others.html
 www.cdc.gov/stophivtogether/hiv-stigma/index.html
-www.cdc.gov/stophivtogether/hiv-stigma/index?CDC_AA_refVal=https://www.cdc.gov/stophivtogether/hiv-stigma/stigma-stories.html
 www.cdc.gov/stophivtogether/hiv-stigma/stigma-scenarios.html
 www.cdc.gov/stophivtogether/hiv-stigma/ways-to-stop.html
 www.cdc.gov/stophivtogether/hiv-testing/index.html
@@ -5996,24 +5875,6 @@ www.cdc.gov/stophivtogether/hiv-treatment/index.html
 www.cdc.gov/stophivtogether/hiv-treatment/talk-treatment.html
 www.cdc.gov/stophivtogether/index.html
 www.cdc.gov/stophivtogether/library/index.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience 1=American Indian/Alaska Native People&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience 1=Black/African American People&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience 1=Gay and Bisexual Men&Topic=Testing&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience 1=Gay and Bisexual Men&Topic=Testing&Language=Spanish.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience 1=Hispanic/Latino People&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience 1=Hispanic/Latino People&Language=Spanish.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience 1=Native Hawaiian and Other Pacific Islander People&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience=Transgender People&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience=Transgender People&Language=Spanish.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience=Women&Language=Spanish.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience=Young Adults&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Audience=Young Adults&Language=Spanish.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Language=English (US)&Audience=Women.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Language=English (US)&Campaign Resources Name=Stop HIV Stigma&Format=Pledge Card.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Language=Spanish.html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Topic=Testing&Language=English (US).html
-www.cdc.gov/stophivtogether/library/index?Sort=Last Updated::desc&Topic=Testing&Language=Spanish.html
 www.cdc.gov/stophivtogether/locator/index.html
 www.cdc.gov/stophivtogether/partnerships/become-a-partner.html
 www.cdc.gov/stophivtogether/partnerships/clinical-ambassadors.html
@@ -6114,7 +5975,6 @@ www.cdc.gov/swine-flu/site.html
 www.cdc.gov/swine-flu/treatment/index.html
 www.cdc.gov/swine-flu/variant-flu-in-humans/index.html
 www.cdc.gov/swine-flu/variant-flu-in-humans/risk-and-reporting.html
-www.cdc.gov/swine-flu/variant-flu-in-humans/risk-and-reporting?.html
 www.cdc.gov/syringe-services-programs/php/index.html
 www.cdc.gov/tatfar/php/about/index.html
 www.cdc.gov/tb-healthcare-settings/hcp/infection-control/index.html
@@ -6165,7 +6025,6 @@ www.cdc.gov/tobacco-health-equity/collection/african-american-quitting-tobacco.h
 www.cdc.gov/tobacco-health-equity/collection/african-american-secondhand-smoke.html
 www.cdc.gov/tobacco-health-equity/collection/african-american-unfair-and-unjust.html
 www.cdc.gov/tobacco-health-equity/collection/african-american.html
-www.cdc.gov/tobacco-health-equity/collection/african-american?s_cid=OSH_misc_M528.html
 www.cdc.gov/tobacco-health-equity/collection/aian-health-burden.html
 www.cdc.gov/tobacco-health-equity/collection/aian-quitting-tobacco.html
 www.cdc.gov/tobacco-health-equity/collection/aian-secondhand-smoke.html
@@ -6188,11 +6047,8 @@ www.cdc.gov/tobacco-health-equity/collection/hispanic-latino.html
 www.cdc.gov/tobacco-health-equity/collection/index.html
 www.cdc.gov/tobacco-health-equity/collection/lgbtq-health-burden.html
 www.cdc.gov/tobacco-health-equity/collection/lgbtq-quitting-tobacco.html
-www.cdc.gov/tobacco-health-equity/collection/lgbtq-quitting-tobacco?s_cid=OSH_misc_M548.html
 www.cdc.gov/tobacco-health-equity/collection/lgbtq-unfair-and-unjust.html
-www.cdc.gov/tobacco-health-equity/collection/lgbtq-unfair-and-unjust?s_cid=OSH_misc_M547.html
 www.cdc.gov/tobacco-health-equity/collection/lgbtq.html
-www.cdc.gov/tobacco-health-equity/collection/lgbtq?s_cid=OSH_misc_M529.html
 www.cdc.gov/tobacco-health-equity/collection/low-ses-health-burden.html
 www.cdc.gov/tobacco-health-equity/collection/low-ses-quitting-tobacco.html
 www.cdc.gov/tobacco-health-equity/collection/low-ses-secondhand-smoke.html
@@ -6218,19 +6074,13 @@ www.cdc.gov/tobacco/about-data/surveys/historical-nyts-data-and-documentation.ht
 www.cdc.gov/tobacco/about-data/surveys/index.html
 www.cdc.gov/tobacco/about-data/surveys/national-youth-tobacco-survey.html
 www.cdc.gov/tobacco/about/benefits-of-quitting.html
-www.cdc.gov/tobacco/about/benefits-of-quitting?CDC_AAref_Val=https://www.cdc.gov/tobacco/quit_smoking/how_to_quit/benefits/index.htm?s_cid=OSH_misc_M434.html
-www.cdc.gov/tobacco/about/benefits-of-quitting?s_cid=OSH_misc_M582.html
-www.cdc.gov/tobacco/about/benefits-of-quitting?s_cid=OSH_misc_M608.html
 www.cdc.gov/tobacco/about/cigarettes-and-cancer.html
 www.cdc.gov/tobacco/about/cigarettes-and-cardiovascular-disease.html
 www.cdc.gov/tobacco/about/cigarettes-and-copd.html
 www.cdc.gov/tobacco/about/cigarettes-and-reproductive-health.html
 www.cdc.gov/tobacco/about/foa/national-state-tobacco-control-program/faq/year4.html
 www.cdc.gov/tobacco/about/how-to-quit.html
-www.cdc.gov/tobacco/about/how-to-quit?s_cid=OSH_misc_M540.html
-www.cdc.gov/tobacco/about/how-to-quit?s_cid=OSH_misc_M631.html
 www.cdc.gov/tobacco/about/index.html
-www.cdc.gov/tobacco/about/index?s_cid=OSH_misc_M531.html
 www.cdc.gov/tobacco/basic_information/menthol/state-menthol-fact-sheets.html
 www.cdc.gov/tobacco/campaign/tips/about/faq/campaign-faq.html
 www.cdc.gov/tobacco/campaign/tips/about/impact/campaign-impact-results.html
@@ -6245,14 +6095,11 @@ www.cdc.gov/tobacco/campaign/tips/asian/vietnamese/rico.html
 www.cdc.gov/tobacco/campaign/tips/connected/comment-policy.html
 www.cdc.gov/tobacco/campaign/tips/diseases/buergers-disease.html
 www.cdc.gov/tobacco/campaign/tips/diseases/cancer.html
-www.cdc.gov/tobacco/campaign/tips/diseases/cancer?s_cid=OSH_misc_M504.html
 www.cdc.gov/tobacco/campaign/tips/diseases/copd.html
 www.cdc.gov/tobacco/campaign/tips/diseases/depression-anxiety.html
 www.cdc.gov/tobacco/campaign/tips/diseases/diabetes.html
 www.cdc.gov/tobacco/campaign/tips/diseases/dual-tobacco-use.html
 www.cdc.gov/tobacco/campaign/tips/diseases/heart-disease-stroke.html
-www.cdc.gov/tobacco/campaign/tips/diseases/heart-disease-stroke?s_cid=OSH_misc_M503.html
-www.cdc.gov/tobacco/campaign/tips/diseases/heart-disease-stroke?s_cid=OSH_misc_M640.html
 www.cdc.gov/tobacco/campaign/tips/diseases/index.html
 www.cdc.gov/tobacco/campaign/tips/diseases/periodontal-gum-disease.html
 www.cdc.gov/tobacco/campaign/tips/diseases/pregnancy.html
@@ -6269,14 +6116,10 @@ www.cdc.gov/tobacco/campaign/tips/groups/hispanic-latino.html
 www.cdc.gov/tobacco/campaign/tips/groups/hiv.html
 www.cdc.gov/tobacco/campaign/tips/groups/index.html
 www.cdc.gov/tobacco/campaign/tips/groups/lgbt.html
-www.cdc.gov/tobacco/campaign/tips/groups/lgbt?s_cid=OSH_misc_M545.html
 www.cdc.gov/tobacco/campaign/tips/groups/military.html
-www.cdc.gov/tobacco/campaign/tips/groups/military?s_cid=OSH_misc_M436.html
 www.cdc.gov/tobacco/campaign/tips/groups/people-with-mental-health-conditions.html
 www.cdc.gov/tobacco/campaign/tips/groups/pregnant-planning.html
 www.cdc.gov/tobacco/campaign/tips/index.html
-www.cdc.gov/tobacco/campaign/tips/index?s_cid=OSH_misc_M151.html
-www.cdc.gov/tobacco/campaign/tips/index?s_cid=OSH_misc_M495.html
 www.cdc.gov/tobacco/campaign/tips/partners/faith/index.html
 www.cdc.gov/tobacco/campaign/tips/partners/hud/index.html
 www.cdc.gov/tobacco/campaign/tips/partners/index.html
@@ -6294,82 +6137,40 @@ www.cdc.gov/tobacco/campaign/tips/press/articles/tips-matte-article-mental-healt
 www.cdc.gov/tobacco/campaign/tips/press/articles/tips-matte-article-military.html
 www.cdc.gov/tobacco/campaign/tips/press/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/7-common-withdrawal-symptoms/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/7-common-withdrawal-symptoms/index?s_cid=OSH_misc_M566.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/7-common-withdrawal-symptoms/index?s_cid=OSH_misc_M575.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/7-common-withdrawal-symptoms/index?s_cid=OSH_misc_M615.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/index?CDC_AA_refVal=https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/guide/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/index?s_cid=OSH_misc_M179.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/index?s_cid=OSH_misc_M379.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/index?s_cid=OSH_misc_M533.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/index?s_cid=OSH_misc_M546.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/index?s_cid=OSH_misc_M606.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/index?s_cid=OSH_tips_D9385.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/national-texting-portal.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/national-texting-portal?s_cid=OSH_misc_M438.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/national-texting-portal?s_cid=OSH_misc_M550.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/national-texting-portal?s_cid=OSH_misc_M612.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/3-reasons-to-use-medicines-when-you-quit/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/3-reasons-to-use-medicines-when-you-quit/index?s_cid=OSH_misc_M577.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/3-reasons-to-use-medicines-when-you-quit/medicines-make-quitting-less-painful/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/3-reasons-to-use-medicines-when-you-quit/quit-medicines-are-safer-than-smoking/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/3-reasons-to-use-medicines-when-you-quit/quit-medicines-help-you-through-tough-times/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/5-new-ways-to-quit-with-medicines/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/5-new-ways-to-quit-with-medicines/index?s_cid=OSH_misc_M578.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/5-new-ways-to-quit-with-medicines/index?s_cid=OSH_misc_M579.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/5-new-ways-to-quit-with-medicines/index?s_cid=OSH_misc_M632.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-quit-smoking-medicines-work/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-combine-medicines.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-a-nicotine-oral-inhaler.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-a-nicotine-patch.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-a-nicotine-patch?s_cid=OSH_misc_M619.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-bupropion-sr.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-bupropion-sr?s_cid=OSH_misc_M629.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-nicotine-gum.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-nicotine-gum?s_cid=OSH_misc_M621.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-nicotine-nasal-spray.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-nicotine-nasal-spray?s_cid=OSH_misc_M625.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-the-nicotine-lozenge.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-the-nicotine-lozenge?s_cid=OSH_misc_M623.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-varenicline.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/how-to-use-varenicline?s_cid=OSH_misc_M627.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/index?s_cid=OSH_misc_M576.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/index?s_cid=OSH_misc_M617.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/six-quick-tips.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/with-medicine.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/how-to-use-quit-smoking-medicines/without-medicine.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/index?s_cid=OSH_email_E568.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/index?s_cid=OSH_misc_M400.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/index?s_cid=OSH_misc_M435.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/index?s_cid=OSH_misc_M544.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/medicine-tips.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/quitting-stories/betty.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/quitting-stories/daniel.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/quitting-stories/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/six-quick-tips.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/tips-for-quitting/index?s_cid=OSH_misc_M378.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/varenicline-recall/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/which-quit-smoking-medicine-is-right-for-you/index.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/which-quit-smoking-medicine-is-right-for-you/without-medicine.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/why-quitting-smoking-is-hard/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/why-quitting-smoking-is-hard/index?s_cid=OSH_misc_M506.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quit-smoking-medications/why-quitting-smoking-is-hard/index?s_cid=OSH_misc_M565.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/index?s_cid=OSH_misc_M150.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/index?s_cid=OSH_misc_M437.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/index?s_cid=OSH_misc_M549.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/index?s_cid=OSH_misc_M574.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/index?s_cid=OSH_misc_M610.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/index?s_cid=OSH_tips_A0001.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitline/top-10-questions-people-ask-about-quitlines.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitstart-app/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitstart-app/index?s_cid=OSH_misc_M439.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitstart-app/index?s_cid=OSH_misc_M614.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/quitstart-app/index?s_cid=OSH_tips_D9871.html
 www.cdc.gov/tobacco/campaign/tips/quit-smoking/tips-for-quitting/index.html
-www.cdc.gov/tobacco/campaign/tips/quit-smoking/tips-for-quitting/index?s_cid=OSH_misc_M541.html
 www.cdc.gov/tobacco/campaign/tips/resources/ads/index.html
 www.cdc.gov/tobacco/campaign/tips/resources/data/cigarette-smoking-in-united-states.html
 www.cdc.gov/tobacco/campaign/tips/resources/feature/index.html
@@ -6405,9 +6206,7 @@ www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/historias-par
 www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/historias-para-dejar-de-fumar/daniel.html
 www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/historias-para-dejar-de-fumar/index.html
 www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/index.html
-www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/index?s_cid=OSH_misc_M536.html
 www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/por-que-es-dificil-dejar-de-fumar/index.html
-www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/por-que-es-dificil-dejar-de-fumar/index?s_cid=OSH_misc_M517.html
 www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/que-medicamento-es-adecuado-para-usted/con-medicina.html
 www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/que-medicamento-es-adecuado-para-usted/index.html
 www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/medicamentos/que-medicamento-es-adecuado-para-usted/sin-medicamentos.html
@@ -6422,21 +6221,18 @@ www.cdc.gov/tobacco/campaign/tips/spanish/dejar-fumar/portal-nacional-texto.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/index.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-afecciones-mentales-depresion-ansiedad.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-cancer.html
-www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-cancer?s_cid=OSH_misc_M515.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-diabetes.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-embarazo.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-enfermedad-de-buerger.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-enfermedad-de-encias.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-enfermedad-pulmonar-obstructiva-cronica.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-enfermedades-cardiacas-accidentes-cerebrovasculares.html
-www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-enfermedades-cardiacas-accidentes-cerebrovasculares?s_cid=OSH_misc_M514.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-humo-segunda-mano-asma.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-vih.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/tabaquismo-vision.html
 www.cdc.gov/tobacco/campaign/tips/spanish/enfermedades/uso-de-2-tipos-de-tabaco.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/amanda.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/angie-p.html
-www.cdc.gov/tobacco/campaign/tips/spanish/historias/angie-p?s_cid=OSH_misc_M509.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/annette.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/asaad-and-leah.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/beatrice.html
@@ -6450,19 +6246,15 @@ www.cdc.gov/tobacco/campaign/tips/spanish/historias/christine.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/dana.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/denise.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/elizabeth-b.html
-www.cdc.gov/tobacco/campaign/tips/spanish/historias/elizabeth-b?s_cid=OSH_misc_M510.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/ellie.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/ethan-b.html
-www.cdc.gov/tobacco/campaign/tips/spanish/historias/ethan-b?s_cid=OSH_misc_M512.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/felicita.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/geri.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/index.html
-www.cdc.gov/tobacco/campaign/tips/spanish/historias/index?s_cid=OSH_misc_M535.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/jamason.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/james.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/jessica.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/john-b.html
-www.cdc.gov/tobacco/campaign/tips/spanish/historias/john-b?s_cid=OSH_misc_M513.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/julia.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/kristy.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/leonard.html
@@ -6474,7 +6266,6 @@ www.cdc.gov/tobacco/campaign/tips/spanish/historias/michael-f.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/michael.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/nathan.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/noel-s.html
-www.cdc.gov/tobacco/campaign/tips/spanish/historias/noel-s?s_cid=OSH_misc_M537.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/rebecca-c.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/rebecca.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/rico.html
@@ -6484,7 +6275,6 @@ www.cdc.gov/tobacco/campaign/tips/spanish/historias/shane.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/sharon.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/shawn.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/stephen-b.html
-www.cdc.gov/tobacco/campaign/tips/spanish/historias/stephen-b?s_cid=OSH_misc_M511.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/suzy.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/tammy-w.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/terrie.html
@@ -6492,7 +6282,6 @@ www.cdc.gov/tobacco/campaign/tips/spanish/historias/tiffany.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/tonya.html
 www.cdc.gov/tobacco/campaign/tips/spanish/historias/wilma.html
 www.cdc.gov/tobacco/campaign/tips/spanish/index.html
-www.cdc.gov/tobacco/campaign/tips/spanish/index?s_cid=OSH_misc_M508.html
 www.cdc.gov/tobacco/campaign/tips/spanish/poblaciones/afroamericanos.html
 www.cdc.gov/tobacco/campaign/tips/spanish/poblaciones/asiaticoamericanos.html
 www.cdc.gov/tobacco/campaign/tips/spanish/poblaciones/audiencia-general.html
@@ -6529,92 +6318,65 @@ www.cdc.gov/tobacco/campaign/tips/spanish/socios/organizaciones-religiosas/index
 www.cdc.gov/tobacco/campaign/tips/spanish/socios/organizaciones-religiosas/preguntas-frecuentes-organizaciones-religiosas.html
 www.cdc.gov/tobacco/campaign/tips/stories/amanda.html
 www.cdc.gov/tobacco/campaign/tips/stories/angie-p.html
-www.cdc.gov/tobacco/campaign/tips/stories/angie-p?s_cid=OSH_misc_M496.html
-www.cdc.gov/tobacco/campaign/tips/stories/angie-p?s_cid=OSH_misc_M542.html
 www.cdc.gov/tobacco/campaign/tips/stories/annette.html
 www.cdc.gov/tobacco/campaign/tips/stories/beatrice.html
-www.cdc.gov/tobacco/campaign/tips/stories/beatrice?s_cid=OSH_misc_M440.html
 www.cdc.gov/tobacco/campaign/tips/stories/becky.html
 www.cdc.gov/tobacco/campaign/tips/stories/bill.html
 www.cdc.gov/tobacco/campaign/tips/stories/brandon.html
 www.cdc.gov/tobacco/campaign/tips/stories/brett.html
 www.cdc.gov/tobacco/campaign/tips/stories/brian-heart.html
-www.cdc.gov/tobacco/campaign/tips/stories/brian-heart?s_cid=OSH_misc_M431.html
 www.cdc.gov/tobacco/campaign/tips/stories/brian.html
 www.cdc.gov/tobacco/campaign/tips/stories/christine.html
 www.cdc.gov/tobacco/campaign/tips/stories/dana.html
 www.cdc.gov/tobacco/campaign/tips/stories/denise.html
 www.cdc.gov/tobacco/campaign/tips/stories/elizabeth-b.html
-www.cdc.gov/tobacco/campaign/tips/stories/elizabeth-b?s_cid=OSH_misc_M497.html
-www.cdc.gov/tobacco/campaign/tips/stories/elizabeth-b?s_cid=OSH_misc_M634.html
 www.cdc.gov/tobacco/campaign/tips/stories/ellie.html
 www.cdc.gov/tobacco/campaign/tips/stories/ethan-b.html
-www.cdc.gov/tobacco/campaign/tips/stories/ethan-b?s_cid=OSH_misc_M499.html
 www.cdc.gov/tobacco/campaign/tips/stories/felicita.html
 www.cdc.gov/tobacco/campaign/tips/stories/geri.html
 www.cdc.gov/tobacco/campaign/tips/stories/index.html
-www.cdc.gov/tobacco/campaign/tips/stories/index?s_cid=OSH_misc_M495.html
 www.cdc.gov/tobacco/campaign/tips/stories/jamason.html
 www.cdc.gov/tobacco/campaign/tips/stories/james.html
-www.cdc.gov/tobacco/campaign/tips/stories/james?s_cid=OSH_misc_M441.html
 www.cdc.gov/tobacco/campaign/tips/stories/jessica.html
 www.cdc.gov/tobacco/campaign/tips/stories/john-b.html
-www.cdc.gov/tobacco/campaign/tips/stories/john-b?s_cid=OSH_misc_M500.html
 www.cdc.gov/tobacco/campaign/tips/stories/julia.html
 www.cdc.gov/tobacco/campaign/tips/stories/kristy.html
 www.cdc.gov/tobacco/campaign/tips/stories/leonard.html
 www.cdc.gov/tobacco/campaign/tips/stories/mariano.html
 www.cdc.gov/tobacco/campaign/tips/stories/marie.html
 www.cdc.gov/tobacco/campaign/tips/stories/mark.html
-www.cdc.gov/tobacco/campaign/tips/stories/mark?s_cid=OSH_misc_M442.html
 www.cdc.gov/tobacco/campaign/tips/stories/marlene.html
 www.cdc.gov/tobacco/campaign/tips/stories/michael-f.html
 www.cdc.gov/tobacco/campaign/tips/stories/michael.html
-www.cdc.gov/tobacco/campaign/tips/stories/michael?s_cid=OSH_misc_M443.html
 www.cdc.gov/tobacco/campaign/tips/stories/nathan.html
-www.cdc.gov/tobacco/campaign/tips/stories/nathan?s_cid=OSH_misc_M444.html
 www.cdc.gov/tobacco/campaign/tips/stories/noel-s.html
-www.cdc.gov/tobacco/campaign/tips/stories/noel-s?s_cid=OSH_misc_M580.html
 www.cdc.gov/tobacco/campaign/tips/stories/rebecca-c.html
 www.cdc.gov/tobacco/campaign/tips/stories/rebecca.html
 www.cdc.gov/tobacco/campaign/tips/stories/rico.html
 www.cdc.gov/tobacco/campaign/tips/stories/roosevelt.html
-www.cdc.gov/tobacco/campaign/tips/stories/roosevelt?s_cid=OSH_misc_M445.html
 www.cdc.gov/tobacco/campaign/tips/stories/rose.html
 www.cdc.gov/tobacco/campaign/tips/stories/shane.html
 www.cdc.gov/tobacco/campaign/tips/stories/sharon.html
 www.cdc.gov/tobacco/campaign/tips/stories/shawn.html
 www.cdc.gov/tobacco/campaign/tips/stories/stephen-b.html
-www.cdc.gov/tobacco/campaign/tips/stories/stephen-b?s_cid=OSH_misc_M498.html
-www.cdc.gov/tobacco/campaign/tips/stories/stephen-b?s_cid=OSH_misc_M638.html
 www.cdc.gov/tobacco/campaign/tips/stories/suzy.html
 www.cdc.gov/tobacco/campaign/tips/stories/tammy-w.html
-www.cdc.gov/tobacco/campaign/tips/stories/tammy-w?s_cid=OSH_misc_M502.html
 www.cdc.gov/tobacco/campaign/tips/stories/terrie.html
 www.cdc.gov/tobacco/campaign/tips/stories/tiffany.html
-www.cdc.gov/tobacco/campaign/tips/stories/tiffany?s_cid=OSH_misc_M171.html
-www.cdc.gov/tobacco/campaign/tips/stories/tiffany?s_cid=OSH_misc_M373.html
 www.cdc.gov/tobacco/campaign/tips/stories/tonya.html
 www.cdc.gov/tobacco/campaign/tips/stories/wilma.html
 www.cdc.gov/tobacco/data-statistics/mmwr/index.html
 www.cdc.gov/tobacco/e-cigarettes/about.html
 www.cdc.gov/tobacco/e-cigarettes/adults.html
 www.cdc.gov/tobacco/e-cigarettes/empower-vape-free-youth-campaign.html
-www.cdc.gov/tobacco/e-cigarettes/empower-vape-free-youth-campaign?s_cid=OSH_misc_M564.html
 www.cdc.gov/tobacco/e-cigarettes/health-effects.html
 www.cdc.gov/tobacco/e-cigarettes/index.html
-www.cdc.gov/tobacco/e-cigarettes/index?s_cid=OSH_misc_M561.html
 www.cdc.gov/tobacco/e-cigarettes/protecting-youth.html
-www.cdc.gov/tobacco/e-cigarettes/protecting-youth?s_cid=OSH_misc_M563.html
-www.cdc.gov/tobacco/e-cigarettes/protecting-youth?s_cid=OSH_misc_M568.html
 www.cdc.gov/tobacco/e-cigarettes/quitting.html
 www.cdc.gov/tobacco/e-cigarettes/why-youth-vape.html
 www.cdc.gov/tobacco/e-cigarettes/youth-guide-to-e-cigarettes-presentation.html
-www.cdc.gov/tobacco/e-cigarettes/youth-guide-to-e-cigarettes-presentation?CDC_AAref_Val=https://www.cdc.gov/tobacco/basic_information/e-cigarettes/youth-guide-to-e-cigarettes-presentation.html
 www.cdc.gov/tobacco/e-cigarettes/youth-quitting.html
-www.cdc.gov/tobacco/e-cigarettes/youth-quitting?s_cid=OSH_misc_M567.html
 www.cdc.gov/tobacco/e-cigarettes/youth.html
-www.cdc.gov/tobacco/e-cigarettes/youth?s_cid=OSH_misc_M562.html
 www.cdc.gov/tobacco/es/menthol-tobacco/como-abordar-el-tema.html
 www.cdc.gov/tobacco/es/menthol-tobacco/disparidades-de-salud.html
 www.cdc.gov/tobacco/es/menthol-tobacco/problema-de-salud-publica.html
@@ -6651,12 +6413,7 @@ www.cdc.gov/tobacco/hcp/patient-care/quitlines-and-other-resources.html
 www.cdc.gov/tobacco/index.html
 www.cdc.gov/tobacco/menthol-tobacco/addressing-products.html
 www.cdc.gov/tobacco/menthol-tobacco/health-disparities.html
-www.cdc.gov/tobacco/menthol-tobacco/health-disparities?s_cid=OSH_misc_M505.html
 www.cdc.gov/tobacco/menthol-tobacco/index.html
-www.cdc.gov/tobacco/menthol-tobacco/index?s_cid=OSH_misc_M493.html
-www.cdc.gov/tobacco/menthol-tobacco/index?s_cid=OSH_misc_M543.html
-www.cdc.gov/tobacco/menthol-tobacco/index?s_cid=OSH_misc_M581.html
-www.cdc.gov/tobacco/menthol-tobacco/index?s_cid=OSH_misc_M636.html
 www.cdc.gov/tobacco/menthol-tobacco/public-health-problem.html
 www.cdc.gov/tobacco/nicotine-pouches/addressing-use-of-nicotine-pouches.html
 www.cdc.gov/tobacco/nicotine-pouches/index.html
@@ -6714,7 +6471,6 @@ www.cdc.gov/tobacco/programs/stay-connected.html
 www.cdc.gov/tobacco/secondhand-smoke/community.html
 www.cdc.gov/tobacco/secondhand-smoke/disparities.html
 www.cdc.gov/tobacco/secondhand-smoke/health.html
-www.cdc.gov/tobacco/secondhand-smoke/health?s_cid=OSH_misc_M532.html
 www.cdc.gov/tobacco/secondhand-smoke/home.html
 www.cdc.gov/tobacco/secondhand-smoke/index.html
 www.cdc.gov/tobacco/secondhand-smoke/policy.html
@@ -6722,7 +6478,6 @@ www.cdc.gov/tobacco/secondhand-smoke/resources.html
 www.cdc.gov/tobacco/site.html
 www.cdc.gov/tobacco/tobacco-features/back-to-school.html
 www.cdc.gov/tobacco/tobacco-features/health-equity.html
-www.cdc.gov/tobacco/tobacco-features/health-equity?s_cid=OSH_misc_M494.html
 www.cdc.gov/tobacco/tobacco-features/index.html
 www.cdc.gov/tobacco/tobacco-features/menthol.html
 www.cdc.gov/tobacco/tobacco-features/military.html
@@ -6786,7 +6541,6 @@ www.cdc.gov/vaccine-safety-systems/vaers/index.html
 www.cdc.gov/vaccine-safety-systems/vsd/access-use.html
 www.cdc.gov/vaccine-safety-systems/vsd/index.html
 www.cdc.gov/vaccine-safety/about/adjuvants.html
-www.cdc.gov/vaccine-safety/index?CDC_AAref_Val=https://www.cdc.gov/vaccinesafety/.html
 www.cdc.gov/vaccine-safety/vaccines/covid-19.html
 www.cdc.gov/vaccine-safety/vaccines/dtap-tdap.html
 www.cdc.gov/vaccine-safety/vaccines/hib.html
@@ -6851,10 +6605,6 @@ www.cdc.gov/vaccines/basics/index.html
 www.cdc.gov/vaccines/basics/possible-side-effects.html
 www.cdc.gov/vaccines/by-age/index.html
 www.cdc.gov/vaccines/by-disease/index.html
-www.cdc.gov/vaccines/communication-resources?Sort=Date::desc&Topics=Diphtheria.html
-www.cdc.gov/vaccines/communication-resources?Sort=Date::desc&Topics=Meningococcal.html
-www.cdc.gov/vaccines/communication-resources?Sort=Date::desc&Topics=Tetanus.html
-www.cdc.gov/vaccines/communication-resources?Sort=Date::desc&Topics=Whooping Cough (Pertussis).html
 www.cdc.gov/vaccines/covid-19/clinical-considerations/covid-19-vaccines-us.html
 www.cdc.gov/vaccines/covid-19/clinical-considerations/interim-considerations-us-appendix.html
 www.cdc.gov/vaccines/covid-19/clinical-considerations/interim-considerations-us.html
@@ -6889,9 +6639,7 @@ www.cdc.gov/vaccines/hcp/imz-schedules/resources.html
 www.cdc.gov/vaccines/hcp/imz-schedules/syndicate-resources.html
 www.cdc.gov/vaccines/hcp/index.html
 www.cdc.gov/vaccines/hcp/resources/index.html
-www.cdc.gov/vaccines/hcp/resources/index?CDC_AAref_Val=https://www.cdc.gov/vaccines/hcp/adults/for-patients/health-conditions.html
 www.cdc.gov/vaccines/hcp/storage-handling/index.html
-www.cdc.gov/vaccines/hcp/storage-handling/index?CDC_AAref_Val=https://www.cdc.gov/vaccines/hcp/admin/storage/toolkit/index.html
 www.cdc.gov/vaccines/hcp/vaccines-us/index.html
 www.cdc.gov/vaccines/hcp/vis/index.html
 www.cdc.gov/vaccines/hcp/whats-new-vis/index.html
@@ -6910,7 +6658,6 @@ www.cdc.gov/vaccines/partners/index.html
 www.cdc.gov/vaccines/php/adolescent-immunization-action-week/index.html
 www.cdc.gov/vaccines/php/events/index.html
 www.cdc.gov/vaccines/php/from-me-to-you/index.html
-www.cdc.gov/vaccines/php/imz-program-resources/awardee-websites?CDC_AAref_Val=https://www.cdc.gov/vaccines/imz-managers/awardee-imz-websites.html
 www.cdc.gov/vaccines/php/imz-program-resources/index.html
 www.cdc.gov/vaccines/php/info-by-product/index.html
 www.cdc.gov/vaccines/php/keeps-it-that-way/index.html
@@ -6977,7 +6724,6 @@ www.cdc.gov/violence-prevention/about/index.html
 www.cdc.gov/violence-prevention/php/cardiff-model/index.html
 www.cdc.gov/violence-prevention/php/funded-programs-opportunities/index.html
 www.cdc.gov/violence-prevention/php/resources-for-action/index.html
-www.cdc.gov/violence-prevention/php/resources-for-action/index?CDC_AAref_Val=https://www.cdc.gov/violenceprevention/communicationresources/pub/resource-for-action.html
 www.cdc.gov/violence-prevention/site.html
 www.cdc.gov/violenceprevention/aces/ace-brfss.html
 www.cdc.gov/viral-hemorrhagic-fevers/about/index.html
@@ -7127,7 +6873,6 @@ www.cdc.gov/winter-weather/safety/index.html
 www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html
 www.cdc.gov/wisewoman/php/about/index.html
 www.cdc.gov/workforce/php/about/index.html
-www.cdc.gov/workforce/php/about/public-health-workforce-research-center?CDC_AAref_Val=https://www.cdc.gov/workforce/resources/research-center.html
 www.cdc.gov/wtc/exhibition/index.html
 www.cdc.gov/yellow-fever/index.html
 www.cdc.gov/youth-violence/about/about-bullying.html
