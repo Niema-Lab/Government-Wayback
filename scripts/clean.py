@@ -36,15 +36,14 @@ def open_file(fn, mode='rt'):
 
 # main program
 if __name__ == "__main__":
-    assert len(argv) == 3, "USAGE: %s <input_url_txt> <output_url_md/txt>"
+    assert len(argv) == 4, "USAGE: %s <input_url_txt> <output_url_md/txt> <YYYYMMDD>"
     assert isfile(argv[1]), "Input file not found: %s" % argv[1]
     assert not (isfile(argv[2]) or isdir(argv[2])), "Output exists: %s" % argv[2]
+    assert (len(argv[3]) == 8) and (sum(1 for c in argv[3] if '0' <= c <= '9') == 8), "Date must be YYYYMMDD: %s" % argv[3]
     f_in = open_file(argv[1], 'rt'); f_out = open_file(argv[2], 'wt')
     md_out = argv[2].strip().lower().replace('.gz','').endswith('.md')
     for l in f_in:
         url = clean(l)
-        if not url.endswith('.html'):
-            continue
         skip = False
         for c in SKIP:
             if c in url:
@@ -52,7 +51,7 @@ if __name__ == "__main__":
         if skip:
             continue
         elif md_out:
-            f_out.write('* `%s` - [Before 2025-01-27](https://web.archive.org/web/20250127000000/%s) - [Latest](https://web.archive.org/web/%s)\n' % (url, url, url))
+            f_out.write('* `%s` - [Before 2025-01-27](https://web.archive.org/web/%s000000/%s) - [Latest](https://web.archive.org/web/%s)\n' % (url, argv[3], url, url))
         else:
             f_out.write('%s\n' % url)
     f_in.close(); f_out.close()
