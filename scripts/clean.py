@@ -51,7 +51,7 @@ if __name__ == "__main__":
         if skip:
             continue
         elif md_out:
-            f_out.write('* `%s` - [Before 2025-01-27](https://web.archive.org/web/%s000000/%s) - [Latest](https://web.archive.org/web/%s)\n' % (url, argv[3], url, url))
+            f_out.write('* `%s` - [Before %s-%s-%s](https://web.archive.org/web/%s000000/%s) - [Latest](https://web.archive.org/web/%s)\n' % (url, argv[3][0:4], argv[3][4:6], argv[3][6:8], argv[3], url, url))
         else:
             f_out.write('%s\n' % url)
     f_in.close(); f_out.close()
