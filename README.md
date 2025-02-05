@@ -3,5 +3,5 @@ Unofficial repository storing links to Wayback Machine for federal government pa
 
 The "Wayback Links" files (`.md` Markdown files) may be too large for GitHub to render, in which case you can use a tool like [Code Beautify Markdown Viewer](https://codebeautify.org/markdown-viewer) to render.
 
-* [www.cdc.gov](https://www.cdc.gov) - [Page URLs](www.cdc.gov.txt), [All URLs](www.cdc.gov.all.txt), [Wayback Links](www.cdc.gov.md)
-* [www.fda.gov](https://www.fda.gov) - [Page URLs](www.fda.gov.txt), [All URLs](www.fda.gov.all.txt), [Wayback Links](www.fda.gov.md)
+* [www.cdc.gov](https://www.cdc.gov) - [Page URLs](www.cdc.gov.txt), [All URLs](www.cdc.gov.all.txt), [Wayback Links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Niema-Lab/Government-Wayback/refs/heads/main&homepage=www.cdc.gov.md#/)
+* [www.fda.gov](https://www.fda.gov) - [Page URLs](www.fda.gov.txt), [All URLs](www.fda.gov.all.txt), [Wayback Links](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/Niema-Lab/Government-Wayback/refs/heads/main&homepage=www.fda.gov.md#/)
