@@ -3,4 +3,4 @@
 if [ "$#" -ne 1 ] ; then
     echo "USAGE: $0 <website_dump_rar>"; exit 1
 fi
-unrar la "$1" | grep '\.html$' | rev | cut -d' ' -f1 | rev | sort
+unrar la "$1" | grep '\.html$' | rev | cut -d' ' -f1 | rev | grep '^www\.' | sort
