@@ -59,9 +59,9 @@ if __name__ == "__main__":
     rar1, rar2 = [(jload(f), f.close())[0] for f in json_files]
     rar1_fns, rar2_fns = [set(r.keys()) for r in [rar1, rar2]]
     for fn in rar1_fns:
-        rar1[fn] = rar1[fn].encode('ascii', errors='ignore').decode(errors='ignore')
+        rar1[fn] = rar1[fn].encode('ascii', errors='ignore').decode(errors='ignore').strip()
     for fn in rar2_fns:
-        rar2[fn] = rar2[fn].encode('ascii', errors='ignore').decode(errors='ignore')
+        rar2[fn] = rar2[fn].encode('ascii', errors='ignore').decode(errors='ignore').strip()
     with open_file(argv[3], 'wt') as out_f:
         print("- File 1 (%d files): %s" % (len(rar1), argv[1]), file=out_f)
         print("- File 2 (%d files): %s" % (len(rar2), argv[2]), file=out_f)
@@ -72,7 +72,7 @@ if __name__ == "__main__":
         print("- In File 2, not File 1: %d files" % len(in_rar2_not_rar1), file=out_f)
         print('\n'.join('  - %s' % fn for fn in sorted(in_rar2_not_rar1)), file=out_f)
         in_both = {k for k in rar1 if k in rar2}
-        in_both_unchanged = {k for k in in_both if rar1[k].strip() == rar2[k].strip()}
+        in_both_unchanged = {k for k in in_both if rar1[k] == rar2[k]}
         in_both_changed = in_both - in_both_unchanged
         print("- In Both, Unchanged: %d files" % len(in_both_unchanged), file=out_f)
         print('\n'.join('  - %s' % fn for fn in sorted(in_both_unchanged)), file=out_f)
